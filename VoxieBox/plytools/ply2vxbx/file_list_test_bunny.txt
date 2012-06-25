@@ -1,0 +1,4 @@
+--ply_file ./bunny.ply --swapXZ --swapXY --flipZ --zoom_progressive 0.01
+--ply_file ./bunny2.ply --swapYZ --flipZ --zoom_progressive 0.015 
+--ply_file ./bunny3.ply --swapXZ --flipZ --zoom_progressive 0.015
+--ply_file ./bunny4.ply --swapXZ --swapYZ --flipZ --zoom_progressive 0.015 
